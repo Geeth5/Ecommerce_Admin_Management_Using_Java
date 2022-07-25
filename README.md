@@ -1,7 +1,7 @@
 # Ecommerce Admin Management Using Java
 An online E-commerce Admin Management system using Java, Spring Boot and MySQL. (Uses MVC Architecture and Facade Design Pattern)
 
-Requirements:
+## ✔️ Requirements
 
 1. Spring Boot
 2. MySQL database. Note: These tables should coincide with the ones used in the Java program.
